@@ -1,9 +1,9 @@
-# The Useless Button Zone 🎮
+# The Useless Button Zone 
 
-A small, silly, addictive interactive website built for "Activity 1" — a challenge to
+A small, silly, addictive interactive website built  to
 build something useless, fun, and surprisingly hard to stop clicking.
 
-Made by **Divyajot Harvindar Singh**, Btech CSE (Software Engineering) @ SRM IST KTR.
+Organically Made by **Divyajot Harvindar Singh** :), Btech CSE (Software Engineering) @ SRM IST KTR.
 
 ## What it does
 
@@ -14,24 +14,3 @@ Made by **Divyajot Harvindar Singh**, Btech CSE (Software Engineering) @ SRM IST
 - **Secret Egg** — type `srm` anywhere on the page for a hidden surprise.
 - **Dark Mode** toggle, remembered between visits.
 
-## Tech stack
-
-Plain **HTML, CSS, and JavaScript** — no frameworks, no build step.
-
-## Run it locally
-
-Just open `index.html` in your browser. No installation needed.
-
-Or serve it locally:
-
-```bash
-npx serve .
-```
-
-Then visit the printed local URL.
-
-## Files
-
-- `index.html` — page structure and content
-- `style.css` — all styling (colors, animations, dark mode)
-- `script.js` — all interactivity (clicker, generator, color box, easter egg, dark mode)
